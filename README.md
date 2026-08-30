@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://formspree.io/forms/mbgjlwa/submit" target="_blank">
+  <a href="https://forms.gle/8Kyv96A9u6YK2r2X9" target="_blank">
     <img src="https://img.shields.io/badge/✉️_Send_Message-238636?style=for-the-badge" alt="Send Message" />
   </a>
 </p>
