@@ -11,9 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://formspree.io/f/mbgjlwa" target="_blank">
-    <img src="https://img.shields.io/badge/Send_Message-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Message" />
+  <a href="https://formspree.io/forms/mbgjlwa/submit" target="_blank">
+    <img src="https://img.shields.io/badge/✉️_Send_Message-238636?style=for-the-badge" alt="Send Message" />
   </a>
 </p>
 
 <br />
+
